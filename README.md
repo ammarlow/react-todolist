@@ -1,4 +1,4 @@
-** Feel free to use this code/apps **
+**Feel free to use this code/apps**
 
 # Getting Started with Create React App
 
